@@ -1,0 +1,3 @@
+D:/computer_practice/stm32_to_esp32/cmake-build-debug-visual-studio/CMakeFiles/stm32_to_esp32.elf.dir
+D:/computer_practice/stm32_to_esp32/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/computer_practice/stm32_to_esp32/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
